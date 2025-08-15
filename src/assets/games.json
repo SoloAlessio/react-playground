@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "The Last of Us Part 2",
+    "cover": "https://cdn2.steamgriddb.com/thumb/e5e713385934d6060e699e041feae955.jpg",
+    "URL": "https://www.playstation.com/en-us/games/the-last-of-us-part-ii/"
+  },
+  {
+    "id": 2,
+    "name": "Red Dead Redemption 2",
+    "cover": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    "URL": "https://www.playstation.com/en-us/games/red-dead-redemption-2/"
+  },
+  {
+    "id": 3,
+    "name": "Ratchet & Clank: Rift Apart",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/DwVjpbKOsFOyPdNzmSTSWuxG.png",
+    "URL": "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/"
+  },
+  {
+    "id": 4,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "cover": "https://static.posters.cz/image/1300/stampa-su-tela-the-legend-of-zelda-breath-of-the-wild-view-i111060.jpg",
+    "URL": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/"
+  },
+  {
+    "id": 5,
+    "name": "God of War: Ragnarok",
+    "cover": "https://4kwallpapers.com/images/wallpapers/god-of-war-ragnarok-kratos-atreus-2022-games-playstation-4-2048x2048-8636.jpg",
+    "URL": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/"
+  },
+  {
+    "id": 6,
+    "name": "Cuphead",
+    "cover": "https://images.pushsquare.com/544b43bab0b29/cuphead-cover.cover_large.jpg",
+    "URL": "https://www.playstation.com/en-us/games/cuphead/"
+  },
+  {
+    "id": 7,
+    "name": "Super Mario Odyssey",
+    "cover": "https://assets.nintendo.eu/image/upload/f_auto,q_auto,t_product_tile_desktop/MNS/NOE/70010000000127/SQ_NSwitch_SuperMarioOdyssey_HomepageWithOverlay",
+    "URL": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/"
+  },
+  {
+    "id": 8,
+    "name": "One Piece Odyssey",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1913/kNaKsiKF1T41mwl6Q1j6mMGH.png",
+    "URL": "https://www.playstation.com/en-us/games/one-piece-odyssey/"
+  },
+  {
+    "id": 9,
+    "name": "Ghost of Tsushima",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
+    "URL": "https://store.playstation.com/en-us/product/UP9000-CUSA13323_00-GHOSTTSUSHIMA001"
+  },
+  {
+    "id": 10,
+    "name": "Horizon Zero Dawn",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP9000-CUSA07320_00-HORIZONZERODAWN0"
+  },
+  {
+    "id": 11,
+    "name": "Resident Evil Village",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP0102-CUSA18008_00-RESIDENTEVILVIII0"
+  },
+  {
+    "id": 12,
+    "name": "Spider-Man: Miles Morales",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP9000-CUSA17722_00-MARVELSSMMPS4000"
+  },
+  {
+    "id": 13,
+    "name": "Demon's Souls",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/GemRaOZaCMhGxQ9dRhnQQyT5.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP9000-CUSA16157_00-DEMONGOEMONSPS5"
+  },
+  {
+    "id": 14,
+    "name": "Cyberpunk 2077",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP4497-CUSA16596_00-CYBERPUNK2077000"
+  },
+  {
+    "id": 15,
+    "name": "Final Fantasy VII Remake",
+    "cover": "https://image.api.playstation.com/vulcan/img/cfn/113075PxnarzRek4cRpjrRWSpLfrcBd23B5e_Yj2azms6nWYKmySv4h3a22G5_R1CM4BQUmSRD6oOArDROKv041NUkgun78-.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP0082-CUSA07211_00-FFVIIREMAKE00000"
+  },
+  {
+    "id": 16,
+    "name": "Sekiro: Shadows Die Twice",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP0002-CUSA13801_00-SEKIROSHADOWSDT00"
+  },
+  {
+    "id": 17,
+    "name": "Assassin's Creed Valhalla",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0208/Ud7Ikvjoyev61bx3n1PTC9u8.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP0001-CUSA18534_00-ACVFULLGAME00000"
+  },
+  {
+    "id": 18,
+    "name": "The Witcher 3: Wild Hunt",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP4497-CUSA05574_00-THEWITCHER3WILDC"
+  },
+  {
+    "id": 19,
+    "name": "Bloodborne",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0713/WSZqsrnejjt85wYmUqeBQvMQ.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP9000-CUSA00900_00-BLOODBORNE000000"
+  },
+  {
+    "id": 20,
+    "name": "Death Stranding",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2921/40aD0BqRUHyHdXdC6nwtwON5.png?w=230&thumb=false",
+    "URL": "https://store.playstation.com/en-us/product/UP9000-CUSA12606_00-DEATHSTRANDING00"
+  }
+]
