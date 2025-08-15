@@ -1,8 +1,30 @@
-# React + Vite
+## Run Locally
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Clone the repository on your local machine
+```bash
+    git clone https://github.com/SoloAlessio/react-playground
+```
 
-Currently, two official plugins are available:
+- Go to the project directory
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+  cd react-playground
+```
+
+- Install dependencies
+
+```bash
+  npm i --save --legacy-peer-deps
+```
+
+- Start the server
+
+```bash
+  npm run dev
+```
+
+- The server should now be running. You can access the application by opening a web browser and entering the following URL:
+
+```bash
+  http://localhost:3000 or http://localhost:5173
+```
